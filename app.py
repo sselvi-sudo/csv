@@ -4,7 +4,7 @@ import pandas as pd
 
 from langchain_experimental.agents import create_pandas_dataframe_agent
 from langchain_groq import ChatGroq
-from langchain.agents.agent_types import AgentType
+from langchain.agents import AgentType
 
 # -------------------------------
 # PAGE CONFIGURATION
